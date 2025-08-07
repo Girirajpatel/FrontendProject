@@ -1,2 +1,3 @@
 # FrontendProject
 This is a Bundle Builder e-commerce interface that encourages customers to "Buy 3 and Save 30%." The application features an interactive product grid where users can select clothing items, track their bundle progress with a visual progress bar, manage product quantities, and view real-time pricing calculations including discount savings in a responsive sidebar checkout experience.
+Live Demo: https://enchanting-elf-8aa4d6.netlify.app/
